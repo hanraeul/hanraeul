@@ -28,8 +28,10 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:spy253791@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:spy253791@gmail.com"> </a>
-          </div>  <br> 
-          <div align= "center"> 
+          </div>
+        <br><br>
+    <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <br>
-              <div align= "center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=hanraeul&theme=dark)](https://git.io/streak-stats)  </div> 
+              <div align= "center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=hanraeul&theme=dark)](https://git.io/streak-stats)  
+              </div> 
     
