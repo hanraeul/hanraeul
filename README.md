@@ -29,9 +29,11 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> 
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanraeul&show_icons=true&theme=radical)
-        />  </div> 
-    </div>
+    <br>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanraeulshow_icons=true&theme=radical)    
+
+<br>
     
